@@ -1,0 +1,12 @@
+{
+  "name": "speech-synthesis",
+  "displayName": "speech-synthesis",
+  "expo": {
+    "name": "speech-synthesis",
+    "slug": "speech-synthesis",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
